@@ -564,7 +564,7 @@ body {
 
 header {
 	text-align: center;
-	background: url("../img/rest-bg.jpg") no-repeat center center;
+	background: url("img/rest-bg.jpg") no-repeat center center;
 	background-size: cover;
 	color: #fff;
 	padding-bottom: 30px;
