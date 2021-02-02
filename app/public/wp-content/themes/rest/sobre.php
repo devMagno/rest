@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-	<head>
-		<meta charset="utf-8">
-		<title>Rest</title>
-
-		<link href='https://fonts.googleapis.com/css?family=Alegreya+SC' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="css/style.css">
-	</head>
-
-	<body>
-		
-		<header>
-			<nav>
-				<ul>
-					<li><a href="index.html">Menu</a></li>
-					<li class="current_page_item"><a href="sobre.html">Sobre</a></li>
-					<li><a href="contato.html">Contato</a></li>
-				</ul>
-			</nav>
-
-			<h1><img src="img/rest.png" alt="Rest"></h1>
-
-			<p>Rua Marechal 29 – Copacabana – Rj</p>
-			<p class="telefone">2422-9201</p>
-		</header>
-
+<?php get_header(); ?>
 		<section class="container sobre">
 			<h2 class="subtitulo">Sobre</h2>
 
@@ -42,18 +16,4 @@
 				<p>O empenho em analisar a consolidação das estruturas apresenta tendências no sentido de aprovar a manutenção dos índices pretendidos.</p>
 			</div>
 		</section>
-
-		<footer>
-			<nav class="nav-footer">
-				<ul>
-					<li><a href="index.html">Menu</a></li>
-					<li class="current_page_item"><a href="sobre.html">Sobre</a></li>
-					<li><a href="contato.html">Contato</a></li>
-				</ul>
-			</nav>
-
-			<p>Rest © 2015. Alguns direitos reservados.</p>
-		</footer>
-
-	</body>
-</html>
+<?php get_footer(); ?>
