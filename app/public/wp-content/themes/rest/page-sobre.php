@@ -1,3 +1,6 @@
+<?php
+	// Template name: Sobre
+?>
 <?php get_header(); ?>
 		<section class="container sobre">
 			<h2 class="subtitulo">Sobre</h2>

@@ -1,3 +1,6 @@
+<?php
+// Template name: Contato
+?>
 <?php get_header(); ?>
 		<section class="container contato">
 			<h2 class="subtitulo">Contato</h2>
