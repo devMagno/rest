@@ -7,7 +7,7 @@
 			<h2 class="subtitulo"><?php the_title(); ?></h2>
 
 			<div class="grid-8">
-				<img src="<?php the_field('foto_rest')?>" alt="<?php the_field('foto_rest_descrição')?>">
+				<img src="<?php the_field('foto_rest')?>" alt="<?php the_field('foto_rest_descricao')?>">
 			</div>
 
 			<div class="grid-8">
