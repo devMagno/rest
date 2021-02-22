@@ -8,6 +8,11 @@
 ---
 
 ## 🚀 Tecnologias e ferramentas utilizadas
+- **HTML5**
+- **CSS3**
+- **PHP**
+- **WordPress**
+- **[Local](https://localwp.com/)**
 
 ---
 
