@@ -4,6 +4,7 @@
 </p>
 
 ## 📖 Sobre
+O **Rest** é um restaurante fictício especializado em frutos do mar e carnes. O projeto foi desenvolvido durante o curso de **WordPress como CMS** da **[Origamid](https://www.origamid.com/)** com o intuito de aprender como tornar uma página em HTML5 simples, gerenciável utilizando WordPress como CMS, isto é, como **sistema de gerenciamento de conteúdo**. Assim, o cliente pode alterar as imagens, textos, links, páginas e posts do site através de uma interface agradável, sem que seja necessária manutenção no código.
 
 ---
 
